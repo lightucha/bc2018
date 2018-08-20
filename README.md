@@ -20,3 +20,5 @@ proc_폴더명_날짜
 > final_leedy.ipynb
 
 *PR 연습 후, 해당 repo를 fork해주세요.*
+
+*_※분석에 사용한 raw data는 upload자제 해주세요_*
